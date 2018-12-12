@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.0)
+project(AdventOfCode)
+
+add_subdirectory(day1)
+add_subdirectory(day2)
+add_subdirectory(day3)
+add_subdirectory(day4)
+add_subdirectory(day5)
+add_subdirectory(day6)
+add_subdirectory(day7)
+add_subdirectory(day8)
+add_subdirectory(day9)
+add_subdirectory(day10)
