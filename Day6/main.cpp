@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	{
 		string s;
 		getline(file, s);
-		
+
 		if (file)
 		{
 			int x, y;
@@ -173,7 +173,7 @@ int main(int argc, char** argv)
 			}
 		}
 	}
-		
+
 #if 1
 	ofstream debug("output.txt");
 	debug << "Offset:    " << m.offset.x << " x " << m.offset.y << endl;
